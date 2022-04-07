@@ -1,0 +1,3 @@
+cms_certification_num,name,address,city,state,zip5,beds,phone_number,homepage_url,chargemaster_url,last_edited_by_username
+500008,UNIVERSITY OF WASHINGTON MEDICAL CTR,1959 NE PACIFIC ST  BOX 356151,SEATTLE,WA,98195,450,2065983300,https://www.uwmedicine.org/,https://www.uwmedicine.org/patient-resources/billing-and-insurance/charge-description-master-codes,joeeoj
+500064,HARBORVIEW MEDICAL CENTER,325 9TH AVENUE,SEATTLE,WA,98104,413,2067313000,https://www.uwmedicine.org/locations/harborview-medical-center,https://www.uwmedicine.org/patient-resources/billing-and-insurance/charge-description-master-codes,joeeoj
