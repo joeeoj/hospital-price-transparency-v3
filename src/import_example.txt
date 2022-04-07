@@ -1,0 +1,3 @@
+dolt table import -u -pk=cms_certification_num hospitals src/virginia_mason/hospitals.csv
+
+dolt table import -u -pk=cms_certification_num,code,inpatient_outpatient,internal_revenue_code,code_disambiguator,payer prices src/virginia_mason/prices.csv
