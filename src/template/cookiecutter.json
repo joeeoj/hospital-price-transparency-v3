@@ -1,0 +1,8 @@
+{
+    "hospital": null,
+    "slug": "{{ cookiecutter.hospital | slugify() }}",
+    "cms": null,
+    "fname": null,
+    "homepage_url": null,
+    "chargemaster_url": null
+}
