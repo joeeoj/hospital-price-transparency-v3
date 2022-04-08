@@ -1,0 +1,5 @@
+cms_certification_num,name,address,city,state,zip5,beds,phone_number,homepage_url,chargemaster_url,last_edited_by_username
+500027,SWEDISH MEDICAL CENTER,747 BROADWAY,SEATTLE,WA,98122,697,2063866000,https://www.swedish.org/locations/first-hill-campus,https://www.swedish.org/patient-visitor-info/pricing-transparency-overview,joeeoj
+500025,SWEDISH MEDICAL CENTER / CHERRY HILL,500 17TH AVENUE,SEATTLE,WA,98122,376,2063202000,https://www.swedish.org/locations/cherry-hill-campus,https://www.swedish.org/patient-visitor-info/pricing-transparency-overview,joeeoj
+500026,SWEDISH EDMONDS HOSPITAL,21601 76TH AVENUE WEST,EDMONDS,WA,98026,217,4256404000,https://www.swedish.org/locations/edmonds-campus,https://www.swedish.org/patient-visitor-info/pricing-transparency-overview,joeeoj
+500152,SWEDISH ISSAQUAH,751 NE BLAKELY DR,ISSAQUAH,WA,98029,120,4253134000,https://www.swedish.org/locations/issaquah-campus,https://www.swedish.org/patient-visitor-info/pricing-transparency-overview,joeeoj
